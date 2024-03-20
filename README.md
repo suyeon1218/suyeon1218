@@ -1,6 +1,6 @@
 # About me
 
-고양이 🐈‍⬛ 를 좋아하는 프론트엔드 개발자입니다. 좋은 UI/UX 과, 개발자 경험에도 관심이 많아요!
+고양이 🐈‍⬛ 를 좋아하는 프론트엔드 개발자입니다. 사용자의 경험을 개선할 수 있는 개발자가 되고 싶습니다!
 
 - 📝 **이력서** [figma](https://www.figma.com/file/jIHgbNvcksM3JRaEozjQva/%EC%9D%B4%EB%A0%A5%EC%84%9C-(Copy)?type=design&node-id=4%3A3&mode=design&t=d38rgxKRv3VJ00PC-1)
 - 👩🏻‍💻 **블로그** [velog](https://velog.io/@miho2582/posts)
