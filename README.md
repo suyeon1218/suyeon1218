@@ -30,6 +30,6 @@
 
 |프로젝트 명|설명|
 |------|---|
-|🚎 [**Milvis**](https://github.com/DogLegBirdLeg/Milvis-Front])|부산대학교 밀양캠퍼스 학생들의 편리한 대중교통 탑승을 위한 시간표 서비스|
+|🚎 [**Milvis**](https://github.com/DogLegBirdLeg/Milvis-Front)|부산대학교 밀양캠퍼스 학생들의 편리한 대중교통 탑승을 위한 시간표 서비스|
 |💖 [**우리 이거 삭제하지 말자**](https://github.com/Lovely-4K/love-frontend)|커플들을 위한 다이어리, 질문 및 일정관리 기능을 제공해주는 서비스|
 |🧘🏻 [**니르바나**](https://github.com/prgrms-fe-devcourse/FEDC4_NIRVANA_Gidong)|도파민 디톡스! 명상을 해야만 글을 쓸 수 있는 명상 후기 공유 서비스|
